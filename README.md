@@ -23,3 +23,9 @@ This is traffic detour, phishing, and may receive other names but ultimately is 
 Recent events such as Brexit, fake news, the elections in the U.S. and Mexico make this vulnerability particulary suceptible for ilegitimate usage.  A variety of possible scenarios is possible, i.e. delivering results to google maps from a fake location or altering biasing results.
 
 Contrary to common belief, the most profitable use of darkweb is control, not illicit or illegal activities which can be carried out without the need of the Internet.  From controlling public opinion, giving fake directions to an election ballot, to altering the route of your Waze or Google Maps.
+
+TODO:
+- LOL code port
+- Simple GUI
+- Pipe the output to further post processing (i.e. maxmind geolocation, reputation and VPN verification)
+- Port to python
